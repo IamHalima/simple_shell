@@ -1,7 +1,5 @@
 #include "main.h"
 
-#include "holberton.h"
-
 /**
  * cmp_env_name - compares env variables names
  * with the name passed.
