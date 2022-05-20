@@ -1,4 +1,4 @@
-#include "mainn.h"
+#include "main.h"
 
 /**
  * is_cdir - checks ":" if is in the current directory.
